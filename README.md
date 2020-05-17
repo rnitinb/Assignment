@@ -1,4 +1,3 @@
-# Assignment
-WordPress Engineer Assignment for rtCamp
+# This is for testing
 
-I have selected "WordPress Plugin Challenge" and developed a plugin described in task "WordPress-Slideshow Plugin".
+This id for just testing purpose.
